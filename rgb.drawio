@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T15:39:37.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bXappI193ALcL7mD52wZ" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T15:40:30.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wU3kSIihT8Qes8zcPE8O" version="21.6.6" type="github">
   <diagram name="Page-1" id="t8HXH4a5JJKXtIFofeSr">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
           <mxGeometry x="230" y="560" width="147.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mtcm4c_lqoG7hYifoDOk-17" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;HSI model&lt;br&gt;&lt;/b&gt;calculate theta.&lt;br&gt;l&amp;nbsp; = 360 - theta&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;m =1-(3*min(r,g,b)/(r+g+b))&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;n = 1/3*(r+g+b)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="570" width="170" height="100" as="geometry" />
+          <mxGeometry x="390" y="559" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mtcm4c_lqoG7hYifoDOk-18" value="&lt;b&gt;CMY model&lt;/b&gt;&lt;br&gt;a = 1-r&lt;br&gt;b= 1-g&lt;br&gt;c = 1-b&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="573" y="560" width="160" height="100" as="geometry" />
